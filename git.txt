@@ -1,0 +1,13 @@
+comandos git:
+
+executar git bash com o botao direito para abrir linha de comando dentro da pasta
+
+git init: autoriza o git acompanhar os processos de alteração na pasta
+
+git status: verificar o status do repositorio se teve alguma alteração
+
+git add "nome completo do arquivo": incluir o arquivo ao controle de versão para criar a primeira versão do código
+
+git add(estaço). : adicionar vários arquivos de uma vez
+
+git comit
