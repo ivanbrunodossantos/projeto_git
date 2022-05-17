@@ -10,4 +10,8 @@ git add "nome completo do arquivo": incluir o arquivo ao controle de versão par
 
 git add(estaço). : adicionar vários arquivos de uma vez
 
-git comit
+git commit -m "(mensagem do que foi alterado": criar a primeira versão do arquivo (commit inicial)
+
+git remote add origin xxxx Ex. (https://github.com/ivanbrunodossantos/projeto_git) caminho para onde o código será enviado.
+
+git push: enviar versões do codigo para nuvem
